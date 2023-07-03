@@ -1,4 +1,4 @@
-## 김영훈 (Younghun Kim)🐭
+## 김영훈 (Younghun Kim)
 
 
 
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <b>[IDE/Environment]</b>
-
+ㅁㄴㅇ
 
 </div>
 </details>
@@ -22,7 +22,7 @@
 <summary><h3>Project</h3></summary>
 <div markdown="1">
 
-<b>[123] </b>
+<b>ㅁㄴㅇ </b>
 
 </div>
 </details>
