@@ -1,17 +1,16 @@
-### 김영훈 (Younghun Kim)🐭
-***
+## 김영훈 (Younghun Kim)🐭
+
+
+
+
+
+### Skills
+[Programming] <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+
+
 
 <!--
-**rdg55065/rdg55065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+기술 스택 뱃지 : https://simpleicons.org/
+                <img src="https://img.shields.io/badge/파이썬-색상코?style=for-the-badge&logo=아이콘&logoColor=white">
 -->
