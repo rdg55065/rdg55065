@@ -5,11 +5,15 @@
 
 
 <details>
-<summary>### Skills</summary>
+<summary><h3>Skills</h3></summary>
 <div markdown="1">
 
+<b>[Programming] </b>
 
-[Programming] <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+<b>[IDE/Environment]</b>
+
 
 </div>
 </details>
