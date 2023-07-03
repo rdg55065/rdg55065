@@ -4,9 +4,15 @@
 
 
 
-### Skills
+<details>
+<summary>### Skills</summary>
+<div markdown="1">
+
+
 [Programming] <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
+</div>
+</details>
 
 
 
